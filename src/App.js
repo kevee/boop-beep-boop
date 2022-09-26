@@ -87,7 +87,7 @@ const App = () => {
           </button>
         </div>
       )}
-      <video src="/boop.mp4" ref={videoRef} playsInline />
+      <video src="boop.mp4" ref={videoRef} playsInline />
     </div>
   )
 }
